@@ -1,6 +1,6 @@
 # Encriptador/Desencriptador de Texto
 
-   Este proyecto es una aplicación web que permite encriptar y desencriptar texto utilizando un conjunto específico de reglas de sustitución, lo realice como una actividad al Desafio Alura 
+   Este proyecto es una aplicación web que permite encriptar y desencriptar texto, lo realice como una actividad al Desafio Alura 
 
    ## Características
 
